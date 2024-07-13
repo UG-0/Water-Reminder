@@ -1,4 +1,4 @@
-# Water-Reminder
+# Water-Reminder(works only on windows)
 An app that reminds you to drink water
 Installing it is a bit tricky so follow this guide (you need administrator to do this)
 
