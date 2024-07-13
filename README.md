@@ -6,7 +6,7 @@ Installing it is a bit tricky so follow this guide (you need administrator to do
 
 Step 1: move the Water Count folder into C:\Users\Public\Public Desktop
 
-### Part 2: Giving the program permission to work in the public desktop
+## Part 2: Giving the program permission to work in the public desktop
 
 Step 1: right click on the "Water Count" folder (the folder which has this file in it)
 
