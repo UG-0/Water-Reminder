@@ -24,7 +24,7 @@ Step 7: in the "Enter the object name to select (examples)" field type users and
 
 Step 8: Click on the full control check box and press ok on all the windows we opened before 
 
-#### Part 3: Allowing the program to run on start up
+## Part 3: Allowing the program to run on start up
 
 Step 1: press win+r
 
@@ -32,10 +32,10 @@ Step 2: type shell:startup into run window
 
 Step 3: move the "Paste me into shellstartup" file there
 
-##### Things to remember to use the program:
+## Things to remember to use the program:
 clicking on yes will add 1 glass clicking on no will remove 1 and clicking on done will close the program but not from the background
 if you find any bug in the program dm me on discord @ug._.
- ###### Done!                                     
+ ## Done!                                     
 the program will now start at startup and will run in the background   it will not be a recource hog and will alert you to drink water every 1 hour if you encounter any issues DM me on discord @ug._.                                    
                                                                 
                                    
